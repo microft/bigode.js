@@ -1,0 +1,9 @@
+{
+    "name": "deskafelia",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "mustache": "",
+        "handlebars": ""
+    }
+}
