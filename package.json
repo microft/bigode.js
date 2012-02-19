@@ -1,9 +1,7 @@
 {
-    "name": "bigode-expesso",
+    "name": "bigode.js",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "mustache": "",
-        "handlebars": ""
     }
 }
