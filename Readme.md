@@ -1,8 +1,11 @@
 ## Bigode.js - mustachejs/handlebarsjs/hogan.js wrapper for express.js
 
 [express.js](http://expressjs.com/) is the most widespread web framework for [nodejs](http://nodejs.org/).
+
 [mustache.js](https://github.com/janl/mustache.js), [handlebars.js](http://handlebarsjs.com/) and [Hogan.js](http://twitter.github.com/hogan.js/) are template systems based on, or derived from, [Mustache](http://mustache.github.com/).
-But these modules don't work with [express.js](http://expressjs.com/) out of the box. There is some boilerplate code that's missing. Bigode.js tries to add that "glue" that will let you use these templating modules with express.
+But these modules don't work with [express.js](http://expressjs.com/) out of the box. There is some boilerplate code that's missing. 
+
+Bigode.js tries to add that "glue" that will let you use these templating modules with express without all the boilerplate stuff.
 
 
 ## Using bigode.js examples
